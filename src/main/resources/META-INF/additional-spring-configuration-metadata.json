@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "Spring.mvc.view.suffix",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.mvc.view.suffix'"
+  },
+  {
+    "name": "Spring.dataSource.url",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.url'"
+  },
+  {
+    "name": "Spring.dataSource.drive-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.drive-class-name'"
+  },
+  {
+    "name": "Spring.dataSource.password",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.password'"
+  },
+  {
+    "name": "Spring.dataSource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.username'"
+  },
+  {
+    "name": "Spring.mvc.view.prefix",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.mvc.view.prefix'"
+  },
+  {
+    "name": "Spring.jpa.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.jpa.show-sql'"
+  },
+  {
+    "name": "Spring.dataSource.drive-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'Spring.dataSource.drive-class-name'"
+  }
+]}
